@@ -46,6 +46,16 @@
 <br>
 <br>
 
+#  Transfer Files from local machine to Windows EC2 Instance.
+## File Transfer:
+
+- In your RDP session, use copy-paste or drag-and-drop to move files from your local machine to the Windows desktop or another folder.
+
+
+<br>
+<br>
+
+
 
 ## Set Up  Web Server using  CMD Terminal
 
@@ -110,22 +120,6 @@ Simply drag and drop or copy-paste files from your local machine to the Windows 
 Troubleshooting
 - If you encounter issues with creating files in the wwwroot directory, ensure that you have the necessary permissions by checking the Security tab in the folder properties.
 
-
-
-
-
-
-
-
-
-<br>
-<br>
-
-
-#  Transfer Files from local machine to Windows EC2 Instance.
-## File Transfer:
-
-- In your RDP session, use copy-paste or drag-and-drop to move files from your local machine to the Windows desktop or another folder.
 
 
 
