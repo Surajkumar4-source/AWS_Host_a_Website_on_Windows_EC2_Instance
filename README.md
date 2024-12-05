@@ -121,6 +121,26 @@ Troubleshooting
 - If you encounter issues with creating files in the wwwroot directory, ensure that you have the necessary permissions by checking the Security tab in the folder properties.
 
 
+<br>
+<br>
+<br>
 
 
+## ------------------Screnshots--------------------
+1.
+<br>
+<br>
 
+
+![Alt text for image](screenshots/1.png)
+
+2.
+<br>
+<br>
+
+
+![Alt text for image](screenshots/2.png)
+
+
+<br>
+<br>
